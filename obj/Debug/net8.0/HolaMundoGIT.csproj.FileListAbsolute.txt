@@ -1,0 +1,15 @@
+C:\Users\ronyj\source\repos\HolaMundoGIT\bin\Debug\net8.0\HolaMundoGIT.exe
+C:\Users\ronyj\source\repos\HolaMundoGIT\bin\Debug\net8.0\HolaMundoGIT.deps.json
+C:\Users\ronyj\source\repos\HolaMundoGIT\bin\Debug\net8.0\HolaMundoGIT.runtimeconfig.json
+C:\Users\ronyj\source\repos\HolaMundoGIT\bin\Debug\net8.0\HolaMundoGIT.dll
+C:\Users\ronyj\source\repos\HolaMundoGIT\bin\Debug\net8.0\HolaMundoGIT.pdb
+C:\Users\ronyj\source\repos\HolaMundoGIT\obj\Debug\net8.0\HolaMundoGIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronyj\source\repos\HolaMundoGIT\obj\Debug\net8.0\HolaMundoGIT.AssemblyInfoInputs.cache
+C:\Users\ronyj\source\repos\HolaMundoGIT\obj\Debug\net8.0\HolaMundoGIT.AssemblyInfo.cs
+C:\Users\ronyj\source\repos\HolaMundoGIT\obj\Debug\net8.0\HolaMundoGIT.csproj.CoreCompileInputs.cache
+C:\Users\ronyj\source\repos\HolaMundoGIT\obj\Debug\net8.0\HolaMundoGIT.sourcelink.json
+C:\Users\ronyj\source\repos\HolaMundoGIT\obj\Debug\net8.0\HolaMundoGIT.dll
+C:\Users\ronyj\source\repos\HolaMundoGIT\obj\Debug\net8.0\refint\HolaMundoGIT.dll
+C:\Users\ronyj\source\repos\HolaMundoGIT\obj\Debug\net8.0\HolaMundoGIT.pdb
+C:\Users\ronyj\source\repos\HolaMundoGIT\obj\Debug\net8.0\HolaMundoGIT.genruntimeconfig.cache
+C:\Users\ronyj\source\repos\HolaMundoGIT\obj\Debug\net8.0\ref\HolaMundoGIT.dll
